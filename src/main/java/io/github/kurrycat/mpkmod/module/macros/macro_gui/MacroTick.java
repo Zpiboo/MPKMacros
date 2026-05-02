@@ -8,11 +8,11 @@ import io.github.kurrycat.mpkmod.gui.components.*;
 import io.github.kurrycat.mpkmod.gui.interfaces.MouseInputListener;
 import io.github.kurrycat.mpkmod.module.macros.Macro;
 import io.github.kurrycat.mpkmod.module.macros.util.LinkedList;
-import io.github.kurrycat.mpkmod.ticks.TickInput;
 import io.github.kurrycat.mpkmod.util.ItrUtil;
 import io.github.kurrycat.mpkmod.util.MathUtil;
 import io.github.kurrycat.mpkmod.util.Mouse;
 import io.github.kurrycat.mpkmod.util.Vector2D;
+import io.github.kurrycat.mpkmod.util.input.TickInput;
 
 import java.util.ArrayList;
 import java.util.Objects;

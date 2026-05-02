@@ -4,7 +4,7 @@ import io.github.kurrycat.mpkmod.compatibility.MCClasses.Minecraft;
 import io.github.kurrycat.mpkmod.compatibility.MCClasses.Player;
 import io.github.kurrycat.mpkmod.module.macros.util.FileUtil;
 import io.github.kurrycat.mpkmod.module.macros.util.LinkedList;
-import io.github.kurrycat.mpkmod.ticks.TickInput;
+import io.github.kurrycat.mpkmod.util.input.TickInput;
 
 import java.io.*;
 
