@@ -152,7 +152,7 @@ public class Macro extends LinkedList<Macro.Tick> {
             ));
         }
 
-        private Tick(TickInput tickInput) {
+        public Tick(TickInput tickInput) {
             super();
             this.tickInput = tickInput;
         }
